@@ -1,4 +1,4 @@
-module Box.Box
+module Utils.Box
 ( Box
 , listToBox
 , getBoxSidesAreas

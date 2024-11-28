@@ -1,4 +1,4 @@
-import Box.Box
+import Utils.Box
 import Data.List.Split(splitOn)
 
 getWrappingPaperSurface :: [Box] -> Int
